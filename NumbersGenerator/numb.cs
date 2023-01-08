@@ -5,7 +5,7 @@ public class numb{
     public static void Main(){
         DateTime start = DateTime.Now;
         int count = 0;
-        while(count<=1000){
+        while(count<=100000){
             Console.WriteLine(count);
             count++;
         }
