@@ -1,4 +1,4 @@
-package numb;
+package NumbersGenerator;
 public class numb {
 
     public static void main(String[] args){
